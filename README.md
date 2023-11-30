@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+mir-xiong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+mir-xiong;A+passionate+backend+developer+from+China)](https://git.io/typing-svg)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=mir-xiong&theme=dark&show_icons=true">
